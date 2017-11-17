@@ -1,14 +1,6 @@
 #include<iostream>
 using namespace std;
 
-/*
-Stack is an abstract data type. Read more about stack here: https://en.wikipedia.org/wiki/Stack_(abstract_data_type) 
-Implement stack with the following functions:  
-Push
-Pop
-Display (displays all elements in the stack)
-Implement the stack using an array and linked list. 
-*/
 
 
 
